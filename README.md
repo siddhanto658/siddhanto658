@@ -2,20 +2,14 @@
 
 **Cloud Security Engineer | DevSecOps | AWS Solutions Architect**
 
-I am a "Builder-Breaker" who believes that you cannot secure a system you do not understand how to build. I specialize in designing highly scalable cloud infrastructure and securing it through automated, shift-left methodologies. 
-
-### 🛡️ How I Help Companies
-I bridge the gap between development and security. Instead of just finding vulnerabilities after deployment, I help organizations:
-* **Architect Zero-Trust Environments:** Enforcing strict Least-Privilege IAM and role-based access control (RBAC) across multi-account AWS architectures.
-* **Implement Shift-Left Security:** Integrating automated security scanning and compliance checks directly into developer CI/CD pipelines.
-* **Automate Threat Remediation:** Writing Python scripts to automatically detect, isolate, and remediate cloud misconfigurations before they can be exploited.
+"Builder-Breaker" - you can't secure what you can't build.
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications (26 Total)
 
-| Specialization | Issuer | Certificates |
-|----------------|--------|--------------|
+| Specialization | Issuer | Count |
+|----------------|--------|-------|
 | AWS Cloud Solutions Architect | AWS | 2 |
 | Big Data | UC San Diego | 5 |
 | Google Project Management | Google | 2 |
@@ -25,28 +19,28 @@ I bridge the gap between development and security. Instead of just finding vulne
 
 ---
 
-### 💻 Core Stack & Technologies
-* **Cloud & Infrastructure:** AWS (EC2, S3, VPC, IAM), Linux, Docker
-* **Security & Governance:** IAM Cross-Account Access, Network Threat Modeling, NIST/CIS Compliance
-* **Automation & Backend:** Python, FastAPI, Bash, Git/GitHub Actions
-* **Methodology:** Agile Project Management, DevSecOps methodologies
+## 💻 Tech Stack
+
+| Category | Skills |
+|----------|--------|
+| Cloud | AWS (EC2, S3, VPC, IAM), Linux, Docker |
+| Security | IAM, Network Security, NIST/CIS Compliance |
+| Automation | Python, FastAPI, GitHub Actions |
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Cloud_secure_IAM](https://github.com/siddhanto658/Cloud_secure_IAM) | Zero-Trust Cross-Account IAM Architecture using AWS STS | AWS IAM, STS, Python |
-| [Code-Sentinel](https://github.com/siddhanto658/Code-Sentinel) | AI-powered code vulnerability scanner | React, TypeScript, Gemini API |
-| [Git_Mirror](https://github.com/siddhanto658/Git_Mirror) | Git repository analysis tool | Next.js, Python |
-| [Roshambo](https://github.com/siddhanto658/Roshambo) | Rock Paper Scissors game | React, TypeScript, Vite |
-| [Stone Paper Scissors](https://github.com/siddhanto658/stone_paper_scissors_python_basic) | Python CLI version | Python |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Cloud_secure_IAM](https://github.com/siddhanto658/Cloud_secure_IAM) | Zero-Trust IAM Architecture | AWS IAM, STS |
+| [Code-Sentinel](https://github.com/siddhanto658/Code-Sentinel) | AI Code Vulnerability Scanner | React, TypeScript |
+| [Git_Mirror](https://github.com/siddhanto658/Git_Mirror) | Git Repository Analysis | Next.js, Python |
+| [Roshambo](https://github.com/siddhanto658/Roshambo) | Rock Paper Scissors Game | React, TypeScript |
 
 ---
 
-### 📫 Let's Connect
-Whether you want to discuss cloud architecture, cybersecurity, or potential opportunities, feel free to reach out!
+## 📫 Connect
 
-* **LinkedIn:** https://www.linkedin.com/in/sidddddd/
-* **Email:** siddhantgoswami7@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sidddddd/)
+- siddhantgoswami7@gmail.com
