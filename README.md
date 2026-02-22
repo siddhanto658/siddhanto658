@@ -6,6 +6,11 @@
 
 ---
 
+### What I Do
+I help companies **build faster** and **stay secure** at the same time. Instead of fixing security problems after they're deployed, I build security into systems from day one - saving time, money, and preventing data breaches.
+
+---
+
 ## 📜 Certifications (26 Total)
 
 | Specialization | Issuer | Count |
