@@ -35,17 +35,13 @@ I bridge the gap between development and security. Instead of just finding vulne
 
 ### 🚀 Featured Projects
 
-#### 1. [Zero-Trust Cross-Account IAM Architecture](https://github.com/siddhanto658/Cloud_secure_IAM.git)
-* **What it does:** A multi-account AWS environment utilizing STS (Security Token Service) to eliminate hardcoded credentials and static IAM users.
-* **Tech Stack:** AWS IAM, AWS STS, AWS CLI, JSON
-* **Business Value:** Prevents privilege escalation and lateral movement by enforcing strict `AssumeRole` trust policies, allowing centralized security auditing without compromising production environments.
-
-#### 2. [Network Asset Discovery & Threat Mapping Engine](Link-to-repo)
-* **What it does:** An automated Python tool that scans local networks to map active devices, identify open ports, and resolve MAC addresses to device manufacturers.
-* **Tech Stack:** Python (Scapy, Socket), Networking (TCP/IP, ARP)
-* **Business Value:** Provides real-time visibility into "shadow IT" and unmanaged assets, a critical first step in protecting enterprise network perimeters.
-
-*(More projects currently in development...)*
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Cloud_secure_IAM](https://github.com/siddhanto658/Cloud_secure_IAM) | Zero-Trust Cross-Account IAM Architecture using AWS STS | AWS IAM, STS, Python |
+| [Code-Sentinel](https://github.com/siddhanto658/Code-Sentinel) | AI-powered code vulnerability scanner | React, TypeScript, Gemini API |
+| [Git_Mirror](https://github.com/siddhanto658/Git_Mirror) | Git repository analysis tool | Next.js, Python |
+| [Roshambo](https://github.com/siddhanto658/Roshambo) | Rock Paper Scissors game | React, TypeScript, Vite |
+| [Stone Paper Scissors](https://github.com/siddhanto658/stone_paper_scissors_python_basic) | Python CLI version | Python |
 
 ---
 
